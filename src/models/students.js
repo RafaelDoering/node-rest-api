@@ -41,4 +41,4 @@ module.exports = {
   findAll,
   updateOne,
   deleteOne,
-}
+};
